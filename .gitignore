@@ -1,3 +1,5 @@
-logs
+logs/*
 .vscode
 .env
+__pycache__/*
+*.pyc
